@@ -1,1 +1,1 @@
-Projeto em JavaScript que simula compra de pizzas, com objetivo de treinar a linguagem.
+Projeto em JavaScript que simula o site de uma pizzaria, onde o usuário pode vizualizar o cardápio e simular a compra das pizzas, elas com diferentes tamanhos e valores. Esse projeto tem como objetivo o aprendizado e aperfeiçoamento da linguagem JavaScript e também se familiarizar com o git, github e todos comandos dessa ferramenta.
